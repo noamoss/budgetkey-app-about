@@ -35,9 +35,9 @@ export class AppComponent {
   converter: showdown.Converter;
 
   private textData = {
-    'budgetkey': require('./abouts/budgetkey.md'),
-    'govbuy':    require('./abouts/govbuy.md'),
-    'socialmap': require('./abouts/socialmap.md'),
+    'budgetkey': require('../abouts/budgetkey.md'),
+    'govbuy':    require('../abouts/govbuy.md'),
+    'socialmap': require('../abouts/socialmap.md'),
   };
 
   constructor(@Inject(THEME_ID_TOKEN) private themeId: string) {
