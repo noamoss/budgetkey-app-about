@@ -1,14 +1,25 @@
-import {Component, Inject} from '@angular/core';
+import {Component, Inject, Pipe, PipeTransform} from '@angular/core';
+import { DomSanitizer } from '@angular/platform-browser'
 
 import * as showdown from 'showdown';
 import { THEME_ID_TOKEN } from '../node_modules/budgetkey-ng2-components';
+
+
+@Pipe({ name: 'safeHtml'})
+export class SafeHtmlPipe implements PipeTransform  {
+  constructor(private sanitized: DomSanitizer) {}
+  transform(value: string) {
+    return this.sanitized.bypassSecurityTrustHtml(value);
+  }
+}
+
 
 @Component({
   selector: 'my-app',
   template: ` 
       <budgetkey-container [showHeader]="true" [showSearchBar]="true">
         <div class='main'>
-          <div class='md' [innerHtml]="md()"></div>
+          <div class='md' [innerHtml]="md() | safeHtml"></div>
         </div>
       </budgetkey-container>
   `, styles: [
@@ -41,11 +52,11 @@ export class AppComponent {
   };
 
   constructor(@Inject(THEME_ID_TOKEN) private themeId: string) {
-    this.converter = new showdown.Converter();
-    console.log('TI', themeId, this.textData[themeId]);
+    this.converter = new showdown.Converter({customizedHeaderId: true});
   }
 
   md() {
-    return this.converter.makeHtml(this.textData[this.themeId] || this.textData['budgetkey']);
+    let ret = this.converter.makeHtml(this.textData[this.themeId] || this.textData['budgetkey']);
+    return ret;
   }
 }
