@@ -6,7 +6,7 @@ import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { HttpModule } from '@angular/http';
 import { FormsModule } from '@angular/forms';
 import { BudgetKeyCommonModule, THEME_ID_TOKEN } from 'budgetkey-ng2-components';
-import { AppComponent } from './app.component';
+import { AppComponent, SafeHtmlPipe } from './app.component';
 
 describe('AppComponent', function () {
   let comp: AppComponent;
@@ -20,7 +20,7 @@ describe('AppComponent', function () {
         BudgetKeyCommonModule,
       ],
       declarations: [
-        AppComponent,
+        AppComponent, SafeHtmlPipe
       ],
       providers: [
         {provide: THEME_ID_TOKEN, useValue: null}
