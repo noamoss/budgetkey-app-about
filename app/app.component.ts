@@ -34,10 +34,10 @@ div.main {
   padding-top: 50px;
 }
 div.md { max-width: 770px; width: 100%; }
-::ng-deep h1 { color: #2389FF;	font-family: "Miriam Libre";	font-size: 36px;	font-weight: bold;	line-height: 47px; }
-::ng-deep h2 { color: #2389FF;	font-family: "Miriam Libre";	font-size: 24px;	font-weight: 300;	line-height: 47px; }
-::ng-deep h3 { color: #2389FF;	font-family: "Miriam Libre";	font-size: 20px;	font-weight: 300;	line-height: 47px; }
-::ng-deep p { color: #3C4948;	font-family: "Abraham TRIAL";	font-size: 20px;	line-height: 26px; }
+::ng-deep div.md h1 { color: #2389FF;	font-family: "Miriam Libre";	font-size: 36px;	font-weight: bold;	line-height: 47px; }
+::ng-deep div.md h2 { color: #2389FF;	font-family: "Miriam Libre";	font-size: 24px;	font-weight: 300;	line-height: 47px; }
+::ng-deep div.md h3 { color: #2389FF;	font-family: "Miriam Libre";	font-size: 20px;	font-weight: 300;	line-height: 47px; }
+::ng-deep div.md p  { color: #3C4948;	font-family: "Abraham TRIAL";	font-size: 20px;	line-height: 26px; }
 `
   ]
 })
