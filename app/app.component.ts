@@ -19,7 +19,7 @@ export class SafeHtmlPipe implements PipeTransform  {
   template: ` 
       <budgetkey-container [showHeader]="true" [showSearchBar]="true">
         <div class='main'>
-          <div class='md' [innerHtml]="md() | safeHtml"></div>
+           <div class='md' [innerHtml]="md()  | safeHtml"></div>
         </div>
       </budgetkey-container>
   `, styles: [
