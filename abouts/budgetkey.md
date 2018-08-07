@@ -11,4 +11,5 @@
 ### לא מה שציפיתם? {supporters}
 ובכן, איש לא מצפה ל**אינקוויזיציה הספרדית**!
 
-![foo](assets/img/eu.svg =120x72) ![foo](assets/img/midot.svg =120x72) 
+#### ![foo](assets/img/eu.svg =120x72) ![foo](assets/img/midot.svg =120x72) 
+
