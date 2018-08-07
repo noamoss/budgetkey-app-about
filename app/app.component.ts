@@ -54,7 +54,10 @@ export class AppComponent {
   };
 
   constructor(@Inject(THEME_ID_TOKEN) private themeId: string) {
-    this.converter = new showdown.Converter({customizedHeaderId: true});
+    this.converter = new showdown.Converter({
+      customizedHeaderId: true,
+      openLinksInNewWindow: true,
+    });
   }
 
   md() {
