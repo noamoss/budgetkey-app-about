@@ -1,0 +1,80 @@
+db_drivers:
+  rethinkdb:
+    query: '\Nuntius\Db\RethinkDB\RethinkDbQueryHandler'
+    storage: '\Nuntius\Db\RethinkDB\RethinkDbStorageHandler'
+    operations: '\Nuntius\Db\RethinkDB\RethinkDbOperationHandler'
+    metadata: '\Nuntius\Db\RethinkDB\RethinkDbMetadataHandler'
+
+# Slack RTM event conterollers.
+events:
+  presence_change: '\Nuntius\Plugin\PresenceChange'
+  message: '\Nuntius\Plugin\Message'
+
+# Entities for storing information.
+entities:
+  reminders: '\Nuntius\Entity\Reminders'
+  context: '\Nuntius\Entity\Context'
+  context_archive: '\Nuntius\Entity\RunningContext'
+  running_context: '\Nuntius\Entity\RunningContext'
+  system: '\Nuntius\Entity\System'
+  logger: '\Nuntius\Entity\Logger'
+
+# Tasks which match a text in a user message's
+tasks:
+  reminders: '\Nuntius\Tasks\Reminders'
+  help: '\Nuntius\Tasks\Help'
+  introduction: '\Nuntius\Tasks\Introduction'
+  restart_question: '\Nuntius\Tasks\RestartQuestion'
+  notify_team: '\Nuntius\Tasks\NotifyTeam'
+
+# List of updates.
+updates:
+  1: '\Nuntius\Update\Update1'
+
+# List of CLI commands.
+commands:
+  - '\Nuntius\Commands\UpdateCommand'
+  - '\Nuntius\Commands\InstallCommand'
+  - '\Nuntius\Commands\RunCommand'
+  - '\Nuntius\Commands\EntityManagerCommand'
+
+# Information for web hooks matching controllers.
+webhooks:
+  github:
+    opened: '\Nuntius\Webhooks\GitHub\Opened'
+
+# List of webhooks and te matcher handler.
+webhooks_routing:
+  'github': '\Nuntius\WebhooksRounting\GitHub'
+  'facebook': '\Nuntius\WebhooksRounting\Facebook'
+
+# List of event objects for event dispatcher.
+dispatcher:
+  names: '\Nuntius\Examples\Names\NameEvent'
+  github_opened: '\Nuntius\Dispatcher\GitHubEvent'
+
+# List of events to dispatch and the matching method.
+dispatchers:
+  names:
+    tom: '\Nuntius\Examples\Names\Tom::name'
+    hal: '\Nuntius\Examples\Names\HAL9000::name'
+  github_opened:
+    # Comment out or override when you don't want to see the webhook example.
+    notify_user: '\Nuntius\Examples\GitHubOpened\NuntiusGitHubOpenedExample::act'
+
+# List of FB postback handlers.
+fb_postbacks:
+  'something_nice': '\Nuntius\FacebookPostBacks\SomethingNice'
+  'toss_a_coin': '\Nuntius\FacebookPostBacks\TossACoin'
+  'what_is_my_name': '\Nuntius\FacebookPostBacks\WhatIsMyName'
+
+# Local services.
+services:
+  - 'services.local.yml'
+
+# List of cron tasks.
+cron:
+  ## Keep that one to see the cron task is working. You can comment out once
+  ## it's OK or override it in settings.local.yml.
+  log: '\Nuntius\Cron\LogThings'
+

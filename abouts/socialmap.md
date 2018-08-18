@@ -13,7 +13,7 @@
 
 
 ### דו"חות רבעוניים
-נוהל "פרסום התקשרויות הממשלה" של אגף החשבת הכללית במשרד האוצר והיחידה הממשלתית לחופש מידע במשרד המשפטים מחייב את משרדי הממשלה ויחידות הסמך, [העובדות עם מערכת מרכב"ה](https://mof.gov.il/AG/AccountingReports/chariot), לפרסם באופן יזום דו"ח רבעוני בדבר התקשרויותיהם".
+נוהל "פרסום התקשרויות הממשלה" של אגף החשבת הכללית במשרד האוצר והיחידה הממשלתית לחופש מידע במשרד המשפטים מחייב את משרדי הממשלה ויחידות הסמך, [העובדות עם מערכת מרכב"ה](https://mof.gov.il/AG/AccountingReports/chariot), לפרסם באופן יזום דו"ח רבעוני בדבר התקשרויותיהם.
 המידע מוצג ומפורסם ב[אתר הממשלתי המרכזי לחופש מידע](https://foi.gov.il/he/search/site/?f%5b0%5d=im_field_mmdtypes:368)
 
 
@@ -48,7 +48,7 @@
 
 * [קראו כאן](https://support.google.com/accounts/answer/3466521?hl=iw) על מדיניות ההרשאות והפרטיות של השירות
 
-משלוח המייל עם ההתראות והתזכורות מבוססים על שירות [Mailgun](https://www.mailgun.com)/
+משלוח המייל עם ההתראות והתזכורות מבוססים על שירות [Mailgun](https://www.mailgun.com).
 
 * [קראו כאן](https://www.mailgun.com/privacy-policy) על מדיניות הפרטיות של השירות.
 
@@ -69,10 +69,12 @@
 
 ## שותפים במיזם {supporters}
 
-[![הסדנא לידע ציבורי](assets/img/hasadna.svg =120x72)](https://hasadna.org.il) [![מידות](assets/img/midot.svg =120x72)](http://www.midot.org.il/) [![חברת מגדל](assets/img/migdal.svg =120x72)](https://www.migdal.co.il/)
+[![הסדנא לידע ציבורי](assets/img/hasadna.svg =120x72)](https://hasadna.org.il)
+[![מידות](assets/img/midot.svg =120x72)](http://www.midot.org.il/)
+[![חברת מגדל](assets/img/migdal.svg =120x72)](https://www.migdal.co.il/)
 
 
 ### תודות {supportes}
 ענת עפרי, חברת "מגדל"
-שי ולמר, ["גיידסטאר"]
+שי ולמר, ["גיידסטאר"](https://www.guidestar.org.il/home)
 גליה פיט וענת קליגר הרבסט, [פרוייקט מסד הנתונים לפילנתרופיה](https://law.tau.ac.il/Law_Philanthropy/DB_Philanthropy), המכון למשפט ופילנתרופיה באוניברסיטת ת"א.
