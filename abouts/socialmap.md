@@ -60,7 +60,7 @@
 
 ## שותפים במיזם {supporters}
 
-#### [![הסדנא לידע ציבורי](assets/img/hasadna-logo.svg =120x72)](https://hasadna.org.il)  [![מידות](assets/img/midot.svg =120x72)](http://www.midot.org.il/)   [![חברת מגדל](assets/img/migdal.svg =120x72)](https://www.migdal.co.il/)
+#### [![הסדנא לידע ציבורי](assets/img/hasadna.png =120x72)](https://hasadna.org.il)  [![מידות](assets/img/midot.svg =120x72)](http://www.midot.org.il/)   [![חברת מגדל](assets/img/migdal.svg =120x72)](https://www.migdal.co.il/)
 
 
 ### תודות {supportes}
