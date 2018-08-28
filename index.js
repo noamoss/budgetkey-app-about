@@ -51,7 +51,8 @@ app.get(basePath + '*', function(req, res) {
     }
   }
 
-  var title = 'אודות ' + themeJson ? themeJson.BUDGETKEY_APP_GENERIC_ITEM_THEME.siteName : 'מפתח התקציב';
+  var siteName = (themeJson && themeJson.BUDGETKEY_APP_GENERIC_ITEM_THEME) ? themeJson.BUDGETKEY_APP_GENERIC_ITEM_THEME.siteName : 'מפתח התקציב'
+  var title = 'אודות ' + siteName;
   res.render('index.html', {
     themeScript: themeScript, base: basePath, title: title,
     authServerUrl: process.env.AUTH_SERVER_URL
