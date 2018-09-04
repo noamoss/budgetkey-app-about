@@ -65,5 +65,5 @@
 
 ### תודות {supportes}
 * ענת עפרי, חברת "מגדל"
-* שי ולמר, ["גיידסטאר"](https://www.guidestar.org.il/home)
+* שי ולמר, מנהל פרוייקט ["גיידסטאר"](https://www.guidestar.org.il/home)
 * גליה פיט וענת קליגר הרבסט, [פרוייקט מסד הנתוניםלפילנתרופיה](https://law.tau.ac.il/Law_Philanthropy/DB_Philanthropy), המכון למשפט ופילנתרופיה באוניברסיטת ת"א
