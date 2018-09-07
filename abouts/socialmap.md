@@ -62,8 +62,7 @@
 
 #### [![הסדנא לידע ציבורי](assets/img/hasadna.png =120x120)](https://hasadna.org.il)  [![מידות](assets/img/midot.svg =120x72)](http://www.midot.org.il/)   [![חברת מגדל](assets/img/migdal.svg =120x72)](https://www.migdal.co.il/)
 
-
 ### תודות {supportes}
 * ענת עפרי, חברת "מגדל"
-* שי ולמר, ["גיידסטאר"](https://www.guidestar.org.il/home)
+* שי ולמר, מנהל פרוייקט ["גיידסטאר"](https://www.guidestar.org.il/home)
 * גליה פיט וענת קליגר הרבסט, [פרוייקט מסד הנתוניםלפילנתרופיה](https://law.tau.ac.il/Law_Philanthropy/DB_Philanthropy), המכון למשפט ופילנתרופיה באוניברסיטת ת"א
