@@ -31,6 +31,7 @@ div.main {
   width: 100%;
   border-top: solid 1px #2389FF;
   margin-top: -9px;
+  padding: 0 10px;
   padding-top: 50px;
 }
 div.md { max-width: 770px; width: 100%; }
