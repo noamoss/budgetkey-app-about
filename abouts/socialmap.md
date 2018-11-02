@@ -41,7 +41,7 @@
 ## הצוות {team}
 - אדם קריב
 - [דימה יארובינסקי](https://www.linkedin.com/in/dimayarovinsky/)
-- נעם קסטל
+- [נעם קסטל](https://thepitz.io)
 
 ## פרטיות {privacy}
 
