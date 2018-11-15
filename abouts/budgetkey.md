@@ -32,6 +32,9 @@
 כל המידע המוצג באתר מבוסס על נתונים המפורסמים במקורות המידע הממשלתיים. השימוש במידע כפוף ל[רישיון CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) של [Creative Commons](https://creativecommons.org/).
 
 
+## שאלות? תגובות? רעיונות?
+[צרו איתנו קשר](http://www.hasadna.org.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/)
+
 #### ------
 
 #### [![European-Union](assets/img/eu.svg =120x72)](https://europa.eu/european-union/index_en)

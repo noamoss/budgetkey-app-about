@@ -34,13 +34,19 @@
 צוות "רכש פתוח" לא יוכל לסייע ביצירת קשר או איתור פרטים נוספים על ארגון על אלו המוצגים באתר.
 
 ## גילינו טעות או מידע לא מעודכן על ארגון או עמותה, מה עושים?
-ארגונים המאתרים טעות או מידע לא מעודכן מוזמנים לפנות ל[אתר גיידסטאר](https://www.guidestar.org.il/contact) לצורך בירור הסיבה ועדכון המידע.
+ארגונים המאתרים טעות או מידע לא מעודכן מוזמנים לפנות ל[אתר גיידסטאר](https://www.guidestar.org.il/contact) לצורך בירור הסיבה ועדכון המיד
+## שאלות? תגובות? רעיונות?
+[צרו איתנו קשר](http://www.hasadna.org.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/)
+ע.
 
 מכיוון שכל המידע המוצג באתר מתבסס על מקורות המידע הרשמיים, מומלץ לפנות לגורם המפרסם לצורך בירור או תיקון הבעיה. צוות "רכש פתוח" ישמח לסייע לכם להבין מיהו הגורם הממשלתי שפרסם את הנתון או המידע שדורשים בירור או תיקון.
 
 ## הצוות {team}
 - אדם קריב
-- [דימה יארובינסקי](https://www.linkedin.com/in/dimayarovinsky/)
+- [דימה יארובינסקי](https:/
+## שאלות? תגובות? רעיונות?
+[צרו איתנו קשר](http://www.hasadna.org.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/)
+/www.linkedin.com/in/dimayarovinsky/)
 - [נעם קסטל](https://thepitz.io)
 
 ## פרטיות {privacy}
@@ -51,18 +57,34 @@
 
 * מערכת הפניה לעזרה המוטמעת באתר (צ'ט) מבוססת על שירות [smooch](https://smooch.io/). [קראו כאן](https://smooch.io/privacy/) על מדיניות הפרטיות של השירות.
 
-* כל הפניות מוצגות לצוות "רכש פתוח" ו"מפתח התקציב" באמצעות סנכרון לערוץ [Slack](https://slack.com/) לצד כתובת העמוד ממנו נשלחה הפניה. איננו שומרים או מאכסנים את המידע מעבר לתקשורת השוטפת והמענה המיידי לפניות. [קראו כאן](https://slack.com/privacy-policy) על מדיניות הפרטיות של השירות.
+*
+## שאלות? תגובות? רעיונות?
+[צרו איתנו קשר](http://www.hasadna.org.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/)
+ כל הפניות מוצגות לצוות "רכש פתוח" ו"מפתח התקציב" באמצעות סנכרון לערוץ [Slack](https://slack.com/) לצד כתובת העמוד ממנו נשלחה הפניה. איננו שומרים או מאכסנים את המידע מעבר לתקשורת השוטפת והמענה המיידי לפניות. [קראו כאן](https://slack.com/privacy-policy) על מדיניות הפרטיות של השירות.
 
-* באתר מוטמע שירות [Google Analytics](https://marketingplatform.google.com/about/analytics/) לניתוח דפוסי השימוש ומיצוב האתר במנועי חיפוש. קוד זה חושף בפני מפעילי השירות מידע בנוגע להתנהגות המשתמשים. [קראו כאן](https://support.google.com/analytics/answer/6004245?hl=he) על מדיניות הפרטיות של השירות.
+* באתר מוטמע שירות [Google Analytics](https://marketingplatform.google.com/about/analytics/) לניתוח דפוסי השימוש ומיצוב האתר במנועי חיפוש. קוד זה חושף בפני מפעילי השירות מידע בנוגע להתנהגות המשתמשים. [קראו
+## שאלות? תגובות? רעיונות?
+[צרו איתנו קשר](http://www.hasadna.org.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/)
+ כאן](https://support.google.com/analytics/answer/6004245?hl=he) על מדיניות הפרטיות של השירות.
 
 ## רשיון שימוש {licenses}
 כל המידע המוצג באתר מבוסס על נתונים המפורסמים במקורות המידע הממשלתיים. השימוש במידע כפוף ל[רישיון CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) של [Creative Commons](https://creativecommons.org/).
 
 ## שותפים במיזם {supporters}
 
-#### [![הסדנא לידע ציבורי](assets/img/hasadna.png =120x120)](https://hasadna.org.il)  [![מידות](assets/img/midot.svg =120x72)](http://www.midot.org.il/)   [![חברת מגדל](assets/img/migdal.svg =120x72)](https://www.migdal.co.il/)
+#### [![הסדנא לידע ציבורי](assets/img/hasadna.png =120x120)](https://hasadna.org.il)  [![מידות](assets/img
+## שאלות? תגובות? רעיונות?
+[צרו איתנו קשר](http://www.hasadna.org.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/)
+## שאלות? תגובות? רעיונות?
+[צרו איתנו קשר](http://www.hasadna.org.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/)
+
+/midot.svg =120x72)](http://www.midot.org.il/)   [![חברת מגדל](assets/img/migdal.svg =120x72)](https://www.migdal.co.il/)
 
 ### תודות {supportes}
 * ענת עפרי, חברת "מגדל"
 * שי ולמר, מנהל פרוייקט ["גיידסטאר"](https://www.guidestar.org.il/home)
 * גליה פיט וענת קליגר הרבסט, [פרוייקט מסד הנתוניםלפילנתרופיה](https://law.tau.ac.il/Law_Philanthropy/DB_Philanthropy), המכון למשפט ופילנתרופיה באוניברסיטת ת"א
+
+
+## שאלות? תגובות? רעיונות?
+[צרו איתנו קשר](http://www.hasadna.org.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/)
