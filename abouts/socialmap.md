@@ -61,9 +61,9 @@
 
 ## שותפים במיזם {supporters}
 
-#### [![הסדנא לידע ציבורי](assets/img/hasadna.png =120x120)](https://hasadna.org.il)  [![מידות](assets/img/midot.svg =120x72)](http://www.midot.org.il/)   [![חברת מגדל](assets/img/migdal2.svg =120x72)](https://www.migdal.co.il/)
+[![הסדנא לידע ציבורי](assets/img/hasadna.png =120x120)](https://hasadna.org.il)  [![מידות](assets/img/midot.svg =120x72)](http://www.midot.org.il/)   [![חברת מגדל](assets/img/migdal2.svg =120x72)](https://www.migdal.co.il/)[![מנהיגות אזרחית](assets/img/manhigut-ezrachit.png =120x72)](http://migzar3.org.il/)     [![מיזם ממשלה-חברה אזרחית](assets/img/meizam_joint.jpg =120x72)](https://www.theinstitute.org.il/index.php?dir=site&page=topics&op=view&cs=69)
 
-### תודות {supportes}
+### תודות {thanks}
 * ענת עפרי, חברת "מגדל"
 * שי ולמר, מנהל פרוייקט ["גיידסטאר"](https://www.guidestar.org.il/home)
 * גליה פיט וענת קליגר הרבסט, [פרוייקט מסד הנתוניםלפילנתרופיה](https://law.tau.ac.il/Law_Philanthropy/DB_Philanthropy), המכון למשפט ופילנתרופיה באוניברסיטת ת"א
